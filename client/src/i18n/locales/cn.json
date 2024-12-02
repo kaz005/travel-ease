@@ -1,0 +1,74 @@
+{
+  "header": {
+    "login": "登录",
+    "register": "注册"
+  },
+  "hero": {
+    "title": "发现你的下一次冒险"
+  },
+  "search": {
+    "destination": "你想去哪里？",
+    "dates": "入住 - 退房",
+    "guests": "成人 - 儿童",
+    "search": "搜索"
+  },
+  "categories": {
+    "flights": "航班",
+    "hotels": "酒店",
+    "carRentals": "租车",
+    "tours": "旅游",
+    "activities": "活动",
+    "restaurants": "餐厅"
+  },
+  "destinations": {
+    "title": "热门目的地",
+    "from": "起价",
+    "bookNow": "立即预订",
+    "cities": {
+      "paris": "巴黎",
+      "bali": "巴厘岛",
+      "tokyo": "东京"
+    }
+  },
+  "promotions": {
+    "summerSale": {
+      "title": "夏季特惠",
+      "subtitle": "海滨度假村优惠高达30%"
+    }
+  },
+  "whyChooseUs": {
+    "title": "为什么选择TravelEase？",
+    "features": {
+      "bestPrices": "航班、酒店和度假套餐保证最优惠价格",
+      "support": "全天候24/7客户支持服务",
+      "flexibility": "灵活的预订选项，特定产品可免费取消",
+      "rewards": "每次预订都能赚取积分用于未来折扣"
+    }
+  },
+  "bookingWidget": {
+    "title": "预订住宿",
+    "checkIn": "入住日期",
+    "checkOut": "退房日期",
+    "guests": "入住人数",
+    "bookNow": "立即预订"
+  },
+  "footer": {
+    "about": {
+      "title": "关于我们",
+      "description": "TravelEase是您所有旅行需求的一站式解决方案。我们为航班、酒店和度假套餐提供最优惠的价格。"
+    },
+    "quickLinks": {
+      "title": "快速链接",
+      "aboutUs": "关于我们",
+      "contactUs": "联系我们",
+      "terms": "条款和条件",
+      "privacy": "隐私政策"
+    },
+    "contact": {
+      "title": "联系信息",
+      "address": "123 旅行街, 城市, 国家",
+      "phone": "电话：",
+      "email": "邮箱："
+    }
+  }
+}

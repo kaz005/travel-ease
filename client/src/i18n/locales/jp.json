@@ -1,0 +1,74 @@
+{
+  "header": {
+    "login": "ログイン",
+    "register": "登録"
+  },
+  "hero": {
+    "title": "次の冒険を見つけよう"
+  },
+  "search": {
+    "destination": "目的地は？",
+    "dates": "チェックイン - チェックアウト",
+    "guests": "大人 - 子供",
+    "search": "検索"
+  },
+  "categories": {
+    "flights": "航空券",
+    "hotels": "ホテル",
+    "carRentals": "レンタカー",
+    "tours": "ツアー",
+    "activities": "アクティビティ",
+    "restaurants": "レストラン"
+  },
+  "destinations": {
+    "title": "人気の目的地",
+    "from": "から",
+    "bookNow": "予約する",
+    "cities": {
+      "paris": "パリ",
+      "bali": "バリ",
+      "tokyo": "東京"
+    }
+  },
+  "promotions": {
+    "summerSale": {
+      "title": "サマーセール",
+      "subtitle": "ビーチリゾートが最大30%オフ"
+    }
+  },
+  "whyChooseUs": {
+    "title": "なぜTravelEaseを選ぶのか？",
+    "features": {
+      "bestPrices": "航空券、ホテル、休暇パッケージの最安値を保証",
+      "support": "24時間年中無休のカスタマーサポート",
+      "flexibility": "対象商品のキャンセル無料の柔軟な予約オプション",
+      "rewards": "すべての予約で将来の割引に使えるポイントを獲得"
+    }
+  },
+  "bookingWidget": {
+    "title": "宿泊予約",
+    "checkIn": "チェックイン",
+    "checkOut": "チェックアウト",
+    "guests": "宿泊人数",
+    "bookNow": "予約する"
+  },
+  "footer": {
+    "about": {
+      "title": "会社概要",
+      "description": "TravelEaseは、旅行に関するすべてのニーズに対応するワンストップソリューションです。航空券、ホテル、休暇パッケージで最高のお得な情報を提供します。"
+    },
+    "quickLinks": {
+      "title": "クイックリンク",
+      "aboutUs": "会社概要",
+      "contactUs": "お問い合わせ",
+      "terms": "利用規約",
+      "privacy": "プライバシーポリシー"
+    },
+    "contact": {
+      "title": "連絡先",
+      "address": "123 トラベルストリート、市、国",
+      "phone": "電話：",
+      "email": "メール："
+    }
+  }
+}

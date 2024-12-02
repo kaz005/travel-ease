@@ -1,0 +1,74 @@
+{
+  "header": {
+    "login": "Login",
+    "register": "Register"
+  },
+  "hero": {
+    "title": "Discover Your Next Adventure"
+  },
+  "search": {
+    "destination": "Where are you going?",
+    "dates": "Check-in - Check-out",
+    "guests": "Adults - Children",
+    "search": "Search"
+  },
+  "categories": {
+    "flights": "Flights",
+    "hotels": "Hotels",
+    "carRentals": "Car Rentals",
+    "tours": "Tours",
+    "activities": "Activities",
+    "restaurants": "Restaurants"
+  },
+  "destinations": {
+    "title": "Popular Destinations",
+    "from": "From",
+    "bookNow": "Book Now",
+    "cities": {
+      "paris": "Paris",
+      "bali": "Bali",
+      "tokyo": "Tokyo"
+    }
+  },
+  "promotions": {
+    "summerSale": {
+      "title": "Summer Sale",
+      "subtitle": "Up to 30% off on beach resorts"
+    }
+  },
+  "whyChooseUs": {
+    "title": "Why Choose TravelEase?",
+    "features": {
+      "bestPrices": "Best prices guaranteed on flights, hotels, and vacation packages",
+      "support": "24/7 customer support to assist you throughout your journey",
+      "flexibility": "Flexible booking options with free cancellation on select deals",
+      "rewards": "Earn rewards points on every booking for future discounts"
+    }
+  },
+  "bookingWidget": {
+    "title": "Book Your Stay",
+    "checkIn": "Check-in",
+    "checkOut": "Check-out",
+    "guests": "Number of guests",
+    "bookNow": "Book Now"
+  },
+  "footer": {
+    "about": {
+      "title": "About Us",
+      "description": "TravelEase is your one-stop solution for all your travel needs. We provide the best deals on flights, hotels, and vacation packages."
+    },
+    "quickLinks": {
+      "title": "Quick Links",
+      "aboutUs": "About Us",
+      "contactUs": "Contact Us",
+      "terms": "Terms & Conditions",
+      "privacy": "Privacy Policy"
+    },
+    "contact": {
+      "title": "Contact Info",
+      "address": "123 Travel Street, City, Country",
+      "phone": "Phone:",
+      "email": "Email:"
+    }
+  }
+}
